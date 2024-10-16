@@ -161,16 +161,18 @@
 #dias_restantes = dia % 7
 #print(f'dia da semana {semanas} e dias {dias_restantes}')
 
-produto = float(input('digite um valor R$: '))
-desconto_5 = (5 * produto)/100
-desconto_10 = (10 * produto)/100
-resultado1 = produto - desconto_5
-if produto > 500:
-  print(f'o produto com desconto é: {resultado1}')
-  resultado2 = produto - desconto_10
-elif produto < 500:
-    print(f'o produto com descoto é: {resultado2}')
-
+# exercicio 28
+# produto = float(input('digite um valor R$: '))
+# desconto_5 = (5 * produto)/100
+# desconto_10 = (10 * produto)/100
+# resultado1 = produto - desconto_10
+# resultado2 = produto - desconto_5
+# if resultado1 > 500:
+#   print(f'o produto com desconto é: {resultado1}')
+  
+# elif resultado1 < 500:
+#   print(f'o produto com descoto é: {resultado2}')
+  
 # # exercicio 29
 # numero1 = float(input('digite um numero: '))
 # numero2 = float(input('digite o segundo numero: '))
