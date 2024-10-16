@@ -1,3 +1,23 @@
+# exercicio 1
+numero1 = int(input('digite um numero inteiro: '))
+numero2 = int(input('digite segundo numero inteiro: '))
+soma = numero1 + numero2
+print(f'A soma entre {numero1} e {numero2} O resultado da soma {soma}\n')
+
+#exercicio 2
+sub1 = int(input('digite um numero inteiro: '))
+sub2 = int(input('digite a segundo numero inteiro: '))
+resultado = sub1 - sub2
+print(f'A sulbtração do {sub2} e {sub1} o resultado é {resultado}\n' )
+
+
+
+
+
+
+
+
+
 # exercicio 8
 #temperatura = float(input('informe temperatuda: '))
 #resultado = temperatura*1.8+32
