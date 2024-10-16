@@ -1,22 +1,45 @@
-# exercicio 1
-numero1 = int(input('digite um numero inteiro: '))
-numero2 = int(input('digite segundo numero inteiro: '))
-soma = numero1 + numero2
-print(f'A soma entre {numero1} e {numero2} O resultado da soma {soma}\n')
+# # exercicio 1
+# numero1 = int(input('digite um numero inteiro: '))
+# numero2 = int(input('digite segundo numero inteiro: '))
+# soma = numero1 + numero2
+# print(f'A soma entre {numero1} e {numero2} O resultado da soma {soma}\n')
 
-#exercicio 2
-sub1 = int(input('digite um numero inteiro: '))
-sub2 = int(input('digite a segundo numero inteiro: '))
-resultado = sub1 - sub2
-print(f'A sulbtração do {sub2} e {sub1} o resultado é {resultado}\n' )
+# #exercicio 2
+# sub1 = int(input('digite um numero inteiro: '))
+# sub2 = int(input('digite a segundo numero inteiro: '))
+# resultado = sub1 - sub2
+# print(f'A sulbtração do {sub2} e {sub1} o resultado é {resultado}\n' )
 
+# # exercicio 3
+# mult1 = int(input('digite um numero interiro: '))
+# mult2 = int(input('digite segundo numero inteiro: '))
+# multi = mult1 * mult2
+# print(f'A soma entre {mult1} e {mult2} resultado {multi}\n')
 
+# # exercicio 4
+# div1 = int(input('digite um numero inteiro'))
+# div2 = int(input('digite segundo numero'))
+# divisão = div1 / div2
+# print(f'A soma entre {div2} e {div1} O resultado {divisão}')
 
+# # exercicio 5
+# numero1 = int(input('digite um numero inteiro: '))
+# numero2 = int(input('dugite segundo numero: '))
+# resultado = numero1%numero2
+# print('O resto da divisão ', resultado)
 
+# # exercicio 6
+# numero1 = int(input('digite um numero inteiro: '))
+# expoente = int(input('digite expoente numero: '))
+# potencia = numero1**expoente
+# print(f'A potencia entre {numero1} e {numero2} e {potencia}')
 
-
-
-
+# # exercicio 7 media de três numeros
+# numero1 = int(input('digite um numero: '))
+# numero2 = int(input('digite segundo numero: '))
+# numero3 = int(input('digite segundo numero: '))
+# media = (numero1+numero2+numero3)/3
+# print(f'A media entre {numero1} numero {numero2} numero {numero3} resultado {media:.2}')
 
 # exercicio 8
 #temperatura = float(input('informe temperatuda: '))
